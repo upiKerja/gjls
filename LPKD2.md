@@ -47,6 +47,8 @@ Selesaikan perancangan kerangka halaman pada platform Figma. Pastikan memenuhi k
 - [x] Halaman Detail Produk memiliki penjelas fitur spesifik toko kalian.
 - [x] Halaman Checkout memiliki rincian komponen biaya yang transparan.
 
+**Link / Dokumen Figma:** https://www.figma.com/design/Q3YNOdZO22v4beRFb30gx3/tnpa-wrna?m=auto&t=0eXV0pScLjgzgvVC-1
+
 ## TUGAS 4: MATRIKS VERIFIKASI DOKUMEN (TUGAS PROJECT MANAGER)
 
 Lakukan pengecekan kesesuaian antara Tampilan UI dan Kolom Basis Data Backend:
